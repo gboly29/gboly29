@@ -15,5 +15,5 @@ I'm a Software Engineer, and a frontend Engineer who currently pursuing a career
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodej&show_icons=true&include_all_commits=true&hide_border=true" alt="Gboly's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gboly29&langs_count=8&layout=compact&hide_border=true" alt="Gboly's GitHub stats" /> |
 | ------------- | ------------- |
